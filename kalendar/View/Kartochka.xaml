@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="kalendar.Kartochka"
+             xmlns:kartonka="clr-namespace:kalendar.View"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:kalendar"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="75">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="data" Text="{Binding Dota}"/>
+        <Image x:Name="kartinka" Source="{Binding kartonka}"/>
+        
+    </Grid>
+</UserControl>
