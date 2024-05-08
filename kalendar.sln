@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalendar", "kalendar\kalendar.csproj", "{3B162F66-31BF-4603-9987-85D46656DC2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalendar", "kalendar\kalendar.csproj", "{6324A3ED-3110-4182-939F-7181F7881AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B162F66-31BF-4603-9987-85D46656DC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B162F66-31BF-4603-9987-85D46656DC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B162F66-31BF-4603-9987-85D46656DC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B162F66-31BF-4603-9987-85D46656DC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6324A3ED-3110-4182-939F-7181F7881AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6324A3ED-3110-4182-939F-7181F7881AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6324A3ED-3110-4182-939F-7181F7881AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6324A3ED-3110-4182-939F-7181F7881AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {200E92EC-5C06-4E54-AD9A-E1741013FCB6}
+		SolutionGuid = {365C1733-9D0D-4926-B403-25E08FC29297}
 	EndGlobalSection
 EndGlobal

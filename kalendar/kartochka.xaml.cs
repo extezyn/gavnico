@@ -13,19 +13,22 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace kalendar.View
+namespace kalendar
 {
     /// <summary>
-    /// Логика взаимодействия для StartPage.xaml
+    /// Логика взаимодействия для kartochka.xaml
     /// </summary>
-    public partial class StartPage : Page
+    public partial class kartochka : UserControl
     {
-
-        public StartPage()
+        public int дата {  get; set; }
+        public Image имэдж {  get; set; }
+        public kartochka(int d, Image im)
         {
             InitializeComponent();
-        }
+            DataContext = this;
 
-        
+            дата = d;
+            имэдж = im;
+        }
     }
 }

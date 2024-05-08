@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Roma\source\repos\kalendar\kalendar\App.xaml
-2-584805827
+3-1725198187
 
-6-2080966775
+7-1575703835
 13-38814620
-View\Kartochka.xaml;View\StartPage.xaml;
+kartochka.xaml;View\MainWindow.xaml;View\Mesyac.xaml;
 
 False
 

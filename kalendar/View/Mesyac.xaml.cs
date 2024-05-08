@@ -10,22 +10,25 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace kalendar
+namespace kalendar.View
 {
     /// <summary>
-    /// Логика взаимодействия для Kartochka.xaml
+    /// Логика взаимодействия для Mesyac.xaml
     /// </summary>
-    public partial class Kartochka : UserControl
+    public partial class Mesyac : Window
     {
-        public int Dota {  get; set; }
-        public Image kartonka { get; set; }
-        public Kartochka()
+        public Mesyac()
         {
             InitializeComponent();
-            /*DataContext = this;*/
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            this.Close();
         }
     }
 }
