@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\mocha\\c#\\gavnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|d:\\coding\\mocha\\c#\\gavnico\\kalendar\\viewmodel\\podgruzka_huyni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\viewmodel\\podgruzka_huyni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|d:\\coding\\mocha\\c#\\gavnico\\kalendar\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|d:\\coding\\mocha\\c#\\gavnico\\kalendar\\view\\mesyac.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\view\\mesyac.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|d:\\coding\\mocha\\c#\\gavnico\\kalendar\\model\\kartochka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\model\\kartochka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|d:\\coding\\mocha\\c#\\gavnico\\kalendar\\model\\kartochka.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6324A3ED-3110-4182-939F-7181F7881AED}|kalendar\\kalendar.csproj|solutionrelative:kalendar\\model\\kartochka.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mesyac.xaml.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\Mesyac.xaml.cs",
+              "RelativeDocumentMoniker": "kalendar\\View\\Mesyac.xaml.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\Mesyac.xaml.cs",
+              "RelativeToolTip": "kalendar\\View\\Mesyac.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:41:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "podgruzka_huyni.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\ViewModel\\podgruzka_huyni.cs",
+              "RelativeDocumentMoniker": "kalendar\\ViewModel\\podgruzka_huyni.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\ViewModel\\podgruzka_huyni.cs",
+              "RelativeToolTip": "kalendar\\ViewModel\\podgruzka_huyni.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:27:16.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\App.xaml",
+              "RelativeDocumentMoniker": "kalendar\\App.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\App.xaml",
+              "RelativeToolTip": "kalendar\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T17:22:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kalendar\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\MainWindow.xaml",
+              "RelativeToolTip": "kalendar\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T17:22:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kalendar\\View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "kalendar\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:22:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kartochka.xaml",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\Model\\kartochka.xaml",
+              "RelativeDocumentMoniker": "kalendar\\Model\\kartochka.xaml",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\Model\\kartochka.xaml",
+              "RelativeToolTip": "kalendar\\Model\\kartochka.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T17:22:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kartochka.xaml.cs",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\Model\\kartochka.xaml.cs",
+              "RelativeDocumentMoniker": "kalendar\\Model\\kartochka.xaml.cs",
+              "ToolTip": "D:\\CODING\\mocha\\c#\\gavnico\\kalendar\\Model\\kartochka.xaml.cs",
+              "RelativeToolTip": "kalendar\\Model\\kartochka.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:22:06.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

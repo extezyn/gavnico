@@ -15,20 +15,17 @@ using System.Windows.Shapes;
 
 namespace kalendar
 {
-    /// <summary>
-    /// Логика взаимодействия для kartochka.xaml
-    /// </summary>
     public partial class kartochka : UserControl
     {
-        public int дата {  get; set; }
-        public Image имэдж {  get; set; }
+        public int data {  get; set; }
+        public Image img {  get; set; }
         public kartochka(int d, Image im)
         {
             InitializeComponent();
             DataContext = this;
 
-            дата = d;
-            имэдж = im;
+            data = d;
+            img = im;
         }
     }
 }

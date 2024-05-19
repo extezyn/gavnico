@@ -1,4 +1,5 @@
 ﻿using kalendar.View;
+using kalendar.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,40 +17,12 @@ using System.Windows.Shapes;
 
 namespace kalendar
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
-            
-        }
-
-        private void load(object sender, RoutedEventArgs e)
-        {
-            DateTime currendata = DateTime.Now; 
-            List<kartochka> kartochkas = new List<kartochka>();
-            for (int i = 0; i < 32; i++)
-            {
-                kartochkas.Add(new kartochka(i,));
-            }
-        }
-
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Mesyac mesyac = new Mesyac();
-            mesyac.Show();
-            this.Close();
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Mesyac mesyac = new Mesyac();
-            mesyac.Show();
-            this.Close();
+            DataContext = new podgruzka_huyni();
         }
     }
 }

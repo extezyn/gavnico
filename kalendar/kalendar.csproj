@@ -55,13 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="kartochka.xaml.cs">
+    <Compile Include="Model\kartochka.xaml.cs">
       <DependentUpon>kartochka.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModel\podgruzka_huyni.cs" />
     <Compile Include="View\Mesyac.xaml.cs">
       <DependentUpon>Mesyac.xaml</DependentUpon>
     </Compile>
-    <Page Include="kartochka.xaml">
+    <Page Include="Model\kartochka.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -108,10 +109,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="shreks.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

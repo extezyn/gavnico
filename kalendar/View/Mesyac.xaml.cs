@@ -14,9 +14,6 @@ using System.Windows.Shapes;
 
 namespace kalendar.View
 {
-    /// <summary>
-    /// Логика взаимодействия для Mesyac.xaml
-    /// </summary>
     public partial class Mesyac : Window
     {
         public Mesyac()
